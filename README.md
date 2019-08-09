@@ -1,2 +1,2 @@
 # vuejs-install
-Documentation about definition, requerement, and installation VueJS
+Definition, requerement, and installation VueJS
